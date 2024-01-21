@@ -1,3 +1,6 @@
+软件综合课程设计
+科研实验辅助系统设计与实现
+前端代码
 # big-event
 
 This template should help get you started developing with Vue 3 in Vite.
